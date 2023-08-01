@@ -1,2 +1,2 @@
-# Stock-Prediction
-Stock prediction of any company listed under INVESTPY package using LSTM.<br>
+# Stock-Prediction...!!!
+Stock prediction of any company you want predicts its price bt using LSTM.
